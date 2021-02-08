@@ -26,8 +26,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [HTML](https://nodejs.org/en/)
-- [SCSS](https://www.typescriptlang.org/)
+- HTML
+- JS
+- SCSS
 
 
 <br>
