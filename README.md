@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://andrejr.dev">
     <img alt="Feito por André Junior" src="https://img.shields.io/badge/feito%20por-André Junior-blue">
   </a>
 </p>
